@@ -40,4 +40,5 @@ public class LettersReadingStrategy extends FileReadingStrategy {
         long endTime = System.nanoTime();
         System.out.println("Execution Time: " + (endTime - startTime) + " nanoseconds");
     }
+
 }
